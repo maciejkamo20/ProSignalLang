@@ -1,0 +1,78 @@
+﻿{"c2dictionary":true,"data":{
+
+    "Sandbox": "Nowa Gra",
+    "Survival": "Przetrwanie",
+    "Changelog": "Lista zmian",
+    "Settings": "Ustawienia",
+    "Exit": "Wyjście",
+
+    "critical": "Krytyk!",
+    "sleep": "Możesz spać tylko w nocy!",
+
+    "fullscreen": "Pełny Ekran",
+    "BGM": "Muzyka",
+    "SFX": "Dźwięki",
+    "FXDespawn": "Zanikanie Obiektów",
+    "FXParticles": "Efekty cząsteczkowe",
+
+    "food": "Jedzenie: ",
+    "water": "Woda: ",
+    "CheatBox": "Wpisz tutaj kod...",
+    "GridMode ON": "(G) Wyrównanie do siatki: ON",
+    "GridMode OFF": "(G) Wyrównanie do siatki: OFF",
+
+    "ItemNameGun": "Pistolet",
+    "ItemDescriptionGun": "Opis niedostępny",
+
+    "ItemNameSilencer": "Tłumik",
+    "ItemDescriptionSilencer": "Opis niedostępny",
+
+    "ItemNameMachine": "Karabin",
+    "ItemDescriptionMachine": "Opis niedostępny",
+
+    "ItemNameBat": "Kij Baseballowy",
+    "ItemDescriptionBat": "Opis niedostępny",
+
+    "ItemNameAmmo": "Amunicja",
+    "ItemDescriptionAmmo": "Amunicja do pistoletu (9mm)",
+
+    "ItemNameAmmoMachine": "Amunicja",
+    "ItemDescriptionAmmoMachine": "Amunicja do karabinu (5.56mm)",
+
+    "ItemNameMedkit": "Apteczka",
+    "ItemDescriptionMedkit": "Odnawia (+75) punktów życia",
+
+    "ItemNameHeart": "Lekarstwa",
+    "ItemDescriptionHeart": "Odnawia (+25) punktów życia",
+
+    "ItemNameBerries": "Jagódki",
+    "ItemDescriptionBerries": "Życie (+8) · Jedzenie (+16) · Woda (+5)",
+
+    "ItemNameFeather": "Pióra",
+    "ItemDescriptionFeather": "Opis niedostępny",
+
+    "ItemNameArrows": "Strzały",
+    "ItemDescriptionArrows": "Opis niedostępny",
+    "ItemCraftArrows": "X12 · Drewno (-8) · Pióra (-3)",
+
+    "ItemNameBow": "Łuk",
+    "ItemDescriptionBow": "Opis niedostępny",
+    "ItemCraftBow": "X1 · Drewno (-12) · Materiał (-8)",
+
+    "ItemNameBedroll": "Śpiwór",
+    "ItemDescriptionBedroll": "Opis niedostępny",
+    "ItemCraftBedroll": "X1 · Materiał (-15)",
+
+    "ItemNameCampfire": "Ognisko",
+    "ItemDescriptionCampfire": "Dobry sposób na oświetlenie dużej powierzchni",
+    "ItemCraftCampfire": "X1 · Drewno (-25) · Kamienie (-48)",
+
+    "ItemNameMine": "Mina",
+    "ItemDescriptionMine": "Opis niedostępny",
+    "ItemCraftMine": "X1 · Metal (-28) · Metalowe Części (-15)",
+
+    "ItemNameCrafting": "Stół Rzemieślniczy",
+    "ItemDescriptionCrafting": "Opis niedostępny",
+    "ItemCraftCrafting": "X1 · Drewno (-15)"
+
+}}

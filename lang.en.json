@@ -1,0 +1,78 @@
+{"c2dictionary":true,"data":{
+
+    "Sandbox": "Sandbox",
+    "Survival": "Survival",
+    "Changelog": "Changelog",
+    "Settings": "Settings",
+    "Exit": "Exit",
+
+    "critical": "Critical!",
+    "sleep": "You can only sleep at night!",
+
+    "fullscreen": "Fullscreen",
+    "BGM": "Music",
+    "SFX": "Sound FX",
+    "FXDespawn": "FX Despawn",
+    "FXParticles": "FX Particles",
+
+    "food": "Food: ",
+    "water": "Water: ",
+    "CheatBox": "Write cheat code here...",
+    "GridMode ON": "(G) Grid Mode: ON",
+    "GridMode OFF": "(G) Grid Mode: OFF",
+
+    "ItemNameGun": "Gun",
+    "ItemDescriptionGun": "No description",
+
+    "ItemNameSilencer": "Silencer",
+    "ItemDescriptionSilencer": "No description",
+
+    "ItemNameMachine": "Machine",
+    "ItemDescriptionMachine": "No description",
+
+    "ItemNameBat": "Bat",
+    "ItemDescriptionBat": "No description",
+
+    "ItemNameAmmo": "Ammo",
+    "ItemDescriptionAmmo": "Gun Ammo (9mm)",
+
+    "ItemNameAmmoMachine": "Ammo",
+    "ItemDescriptionAmmoMachine": "Machine Ammo (5.56mm)",
+
+    "ItemNameMedkit": "Medkit",
+    "ItemDescriptionMedkit": "Restores (+75) health points",
+
+    "ItemNameHeart": "Medications",
+    "ItemDescriptionHeart": "Restores (+25) health points",
+
+    "ItemNameBerries": "Berries",
+    "ItemDescriptionBerries": "Health (+8) · Food (+16) · Water (+5)",
+
+    "ItemNameFeather": "Feather",
+    "ItemDescriptionFeather": "No description",
+
+    "ItemNameArrows": "Arrows",
+    "ItemDescriptionArrows": "No description",
+    "ItemCraftArrows": "X12 · Wood (-8) · Feather (-3)",
+
+    "ItemNameBow": "Bow",
+    "ItemDescriptionBow": "No description",
+    "ItemCraftBow": "X1 · Wood (-12) · Cloth (-8)",
+
+    "ItemNameBedroll": "Bedroll",
+    "ItemDescriptionBedroll": "No description",
+    "ItemCraftBedroll": "X1 · Cloth (-15)",
+
+    "ItemNameCampfire": "Campfire",
+    "ItemDescriptionCampfire": "A good way to light up a large area",
+    "ItemCraftCampfire": "X1 · Wood (-25) · Rocks (-48)",
+
+    "ItemNameMine": "Mine",
+    "ItemDescriptionMine": "No description",
+    "ItemCraftMine": "X1 · Steel (-28) · ScrapMetal (-15)",
+
+    "ItemNameCrafting": "Crafting Table",
+    "ItemDescriptionCrafting": "No description",
+    "ItemCraftCrafting": "X1 · Wood (-15)"
+
+}}
